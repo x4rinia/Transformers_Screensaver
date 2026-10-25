@@ -9,9 +9,9 @@
     <AssemblyName>TransformersScreen</AssemblyName>
     <Product>Transformers Screensaver</Product>
     <AssemblyTitle>Transformers Screensaver</AssemblyTitle>
-    <Version>2.1.0</Version>
-    <FileVersion>2.1.0.0</FileVersion>
-    <AssemblyVersion>2.1.0.0</AssemblyVersion>
+    <Version>2.4.0</Version>
+    <FileVersion>2.4.0.0</FileVersion>
+    <AssemblyVersion>2.4.0.0</AssemblyVersion>
     <RootNamespace>F4rbfieberTransformersScreen</RootNamespace>
     <Platforms>AnyCPU;x64</Platforms>
     <RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
